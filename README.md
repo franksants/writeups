@@ -1,3 +1,5 @@
+***Writeup Structure***
+
 # Binary's Name / CVE
 
 ## Overview
